@@ -1,2 +1,2 @@
 # ServiciesDisabler
-Deshabilita servicios innecesarios de Windows
+Deshabilita servicios innecesarios de Windows.
